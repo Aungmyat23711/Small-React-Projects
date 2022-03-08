@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Birthday bash1",
+      "details": "Hello World1",
+      "category": "Phone",
+      "id": 1
+    },
+    {
+      "title": "Birthday bash2",
+      "details": "Hello World2",
+      "category": "Laptop",
+      "id": 2
+    },
+    {
+      "title": "Birthday bash3",
+      "details": "Hello World3",
+      "category": "Desktop",
+      "id": 3
+    },
+    {
+      "title": "Birthday bash4",
+      "details": "Hello World4",
+      "category": "Tv",
+      "id": 4
+    },
+    {
+      "title": "Super Day Coming",
+      "details": "It is tomorrow",
+      "category": "Banana",
+      "id": 5
+    },
+    {
+      "title": "Super Day Coming",
+      "details": "It is tomorrow",
+      "category": "Orange",
+      "id": 6
+    },
+    {
+      "title": "Super Day Coming",
+      "details": "It is tomorrow",
+      "category": "Orange",
+      "id": 7
+    },
+    {
+      "title": "Super Day Coming",
+      "details": "It is tomorrow",
+      "category": "Orange",
+      "id": 8
+    }
+  ]
+}
