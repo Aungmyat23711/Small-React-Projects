@@ -39,7 +39,7 @@ const useStyles = makeStyles((theme) => {
     },
   };
 });
-const Home = () => {
+const WeatherApp = () => {
   const classes = useStyles();
   const [city, setCity] = useState("");
   const Cors = "https://api.allorigins.win/get?url=";
@@ -204,4 +204,4 @@ const Home = () => {
     </div>
   );
 };
-export default Home;
+export default WeatherApp;
